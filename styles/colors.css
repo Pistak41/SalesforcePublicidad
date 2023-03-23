@@ -1,0 +1,20 @@
+:root{
+
+    /*Colors*/
+    --backgroundColor: rgb(255, 255, 255);
+	--textColor: rgb(35, 31, 32);
+	--titleColor: rgb(83, 64, 224);
+
+    --red: rgb(244, 23, 18);
+    --orange: rgb(244, 102, 22);
+    --yellow: rgb(236, 175, 20);
+    --green: rgb(45, 160, 101);
+    --lightBlue: rgb(35, 146, 186);
+    --blue: rgb(51, 71, 150);
+    --violet: rgb(136, 75, 157);
+    --black: rgb(35, 31, 32);
+
+    /*Text*/
+    --font: "Montserrat";
+
+}
